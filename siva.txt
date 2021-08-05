@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 editing done
+=======
+mai
+
+
+
+
+sn
+>>>>>>> 8354263 (added files)
